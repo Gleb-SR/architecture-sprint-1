@@ -32,4 +32,4 @@
 
 # Задание 2 Декомпозиция веб-приложения на Django на микросервисы
 
-
+https://github.com/Gleb-SR/architecture-sprint-1/blob/mesto/sprint_1_task_2.png
